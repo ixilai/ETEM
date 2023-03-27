@@ -3,7 +3,7 @@
 
 This package contains the matlab code which is associated with the following paper:
 
-Xilai Li, Xiaosong Li  Multimodal Medical Image Fusion based on Error Texture Elimination[J]
+Xilai Li, Xiaosong Li  Multimodal Medical Image Fusion based on Error Texture Elimination[J]. IEEE Journal of Biomedical and Health Informatics.
 
 
 This manuscript is in submission status. Usage of this code is free for research purposes only. 

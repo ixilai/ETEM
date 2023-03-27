@@ -1,9 +1,0 @@
-function [salient_map]=str_tensor_map(matrix,v)
-EA=XF(matrix,v);
-GA=YF(matrix,v);
-FA=EA.*GA;
-EEA=EA.*EA;
-GGA=GA.*GA;
-e1=0.5*((EEA+GGA)+sqrt((EEA-GGA).^2+4*FA.*FA)); 
-e2=0.5*((EEA+GGA)-sqrt((EEA-GGA).^2+4*FA.*FA)); 
-salient_map=sqrt((e1+e2).^2+0.5*((e1-e2).^2));

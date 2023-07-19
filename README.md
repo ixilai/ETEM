@@ -1,4 +1,3 @@
-# ETEM
 # Multimodal brain image fusion based on error texture elimination and salient feature detection
 
 This package contains the matlab code which is associated with the following paper:
